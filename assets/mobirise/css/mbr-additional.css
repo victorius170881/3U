@@ -4294,85 +4294,165 @@ section.lazy-placeholder:after {
 .cid-s9pyBVUe9j .mbr-text P {
   text-align: center;
 }
-.cid-s9pCSwBJWU {
+.cid-s9pR0d3eYx {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #fef4e4;
 }
-.cid-s9pCSwBJWU .card-img {
-  background-color: #fff;
+.cid-s9pR0d3eYx .card-box {
+  padding: 0 2rem;
 }
-.cid-s9pCSwBJWU .card-box {
-  padding: 2rem;
-  background-color: #fef4e4;
+.cid-s9pR0d3eYx .mbr-section-btn {
+  padding-top: 1rem;
 }
-.cid-s9pCSwBJWU h4 {
+.cid-s9pR0d3eYx .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-s9pR0d3eYx h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
+  padding-top: 2rem;
 }
-.cid-s9pCSwBJWU p {
+.cid-s9pR0d3eYx p {
+  margin-bottom: 0;
   text-align: left;
+  padding-top: 1.5rem;
 }
-.cid-s9pCSwBJWU .mbr-text {
+.cid-s9pR0d3eYx .mbr-text {
   color: #767676;
 }
-.cid-s9pCSwBJWU .card-wrapper {
+.cid-s9pR0d3eYx .card-wrapper {
   height: 100%;
+  padding-bottom: 2rem;
+  background: #fef4e4;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-s9pCSwBJWU .card-wrapper:hover {
+.cid-s9pR0d3eYx .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-@media (min-width: 992px) {
-  .cid-s9pCSwBJWU .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
-}
-.cid-s9pDTfrL2N {
+.cid-s9pSJ0z4WI {
   padding-top: 30px;
   padding-bottom: 30px;
   background-color: #fef4e4;
 }
-.cid-s9pDTfrL2N .card-img {
-  background-color: #fff;
+.cid-s9pSJ0z4WI .card-box {
+  padding: 0 2rem;
 }
-.cid-s9pDTfrL2N .card-box {
-  padding: 2rem;
-  background-color: #fef4e4;
+.cid-s9pSJ0z4WI .mbr-section-btn {
+  padding-top: 1rem;
 }
-.cid-s9pDTfrL2N h4 {
+.cid-s9pSJ0z4WI .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-s9pSJ0z4WI h4 {
   font-weight: 500;
   margin-bottom: 0;
   text-align: left;
+  padding-top: 2rem;
 }
-.cid-s9pDTfrL2N p {
+.cid-s9pSJ0z4WI p {
+  margin-bottom: 0;
   text-align: left;
+  padding-top: 1.5rem;
 }
-.cid-s9pDTfrL2N .mbr-text {
+.cid-s9pSJ0z4WI .mbr-text {
   color: #767676;
 }
-.cid-s9pDTfrL2N .card-wrapper {
+.cid-s9pSJ0z4WI .card-wrapper {
   height: 100%;
+  padding-bottom: 2rem;
+  background: #fef4e4;
   box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
   transition: box-shadow 0.3s;
 }
-.cid-s9pDTfrL2N .card-wrapper:hover {
+.cid-s9pSJ0z4WI .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
   transition: box-shadow 0.3s;
 }
-@media (min-width: 992px) {
-  .cid-s9pDTfrL2N .my-col {
-    flex: 0 0 20%;
-    max-width: 20%;
-    padding: 15px;
-    -webkit-flex: 0 0 20%;
-  }
+.cid-s9pTqNLu60 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #fef4e4;
+}
+.cid-s9pTqNLu60 .card-box {
+  padding: 0 2rem;
+}
+.cid-s9pTqNLu60 .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-s9pTqNLu60 .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-s9pTqNLu60 h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s9pTqNLu60 p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s9pTqNLu60 .mbr-text {
+  color: #767676;
+}
+.cid-s9pTqNLu60 .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #fef4e4;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s9pTqNLu60 .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
+}
+.cid-s9pU8ZknKx {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #fef4e4;
+}
+.cid-s9pU8ZknKx .card-box {
+  padding: 0 2rem;
+}
+.cid-s9pU8ZknKx .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-s9pU8ZknKx .mbr-section-btn a {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+.cid-s9pU8ZknKx h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-s9pU8ZknKx p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-s9pU8ZknKx .mbr-text {
+  color: #767676;
+}
+.cid-s9pU8ZknKx .card-wrapper {
+  height: 100%;
+  padding-bottom: 2rem;
+  background: #fef4e4;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-s9pU8ZknKx .card-wrapper:hover {
+  box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
+  transition: box-shadow 0.3s;
 }
 .cid-s9pEP2n8Tv {
   padding-top: 30px;
